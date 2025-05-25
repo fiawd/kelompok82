@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b4b9cb;
+    padding: 20px;
+}
+header, footer {
+    background-color: #333;
+    color: rgba(230, 239, 233, 0.854);
+    padding: 10px;
+}
+a {
+    margin: 0 10px;
+    text-decoration: none;
+}
+.footer-content {
+    text-align: center;
+    font-size: 14px;
+}
